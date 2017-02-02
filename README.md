@@ -1,4 +1,4 @@
-# greek-machine
+# Vuejs-Lorum-Ipsum-Generator
 
 > A Vue.js project.
 > A lorum ipsum generator built with Vue.js.
