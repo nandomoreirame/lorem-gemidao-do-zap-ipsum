@@ -1,7 +1,11 @@
 # greek-machine
 
-> A Vue.js project
+> A Vue.js project.
 > A lorum ipsum generator built with Vue.js.
+
+## Demo
+http://vuejs-lorum-ipsum-generator.tedgeving.com/
+
 ## Build Setup
 
 ``` bash
