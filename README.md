@@ -1,6 +1,6 @@
-# Lorem {do gemidao do zap} ipsum
+# Lorem {gemidão do zap} ipsum
 
-![Lorem {do gemidao do zap} ipsum](/lorem-genidao.png)
+![Lorem {gemidão do zap} ipsum](/lorem-genidao.png)
 
 ## Demo
 

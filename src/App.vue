@@ -2,7 +2,7 @@
 <div id="app">
   <header>
     <div class="row">
-      <h2>Lorem {do gemidão do zap} ipsum</h2>
+      <h2>Lorem {gemidão do zap} ipsum</h2>
       <strong>by <a href="https://nandomoreira.me/">nandomoreira.me</a></strong>
     </div>
   </header>
