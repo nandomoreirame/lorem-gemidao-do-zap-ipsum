@@ -1,9 +1,9 @@
 {
-  "name": "Vue-JS-Lorem-Ipsum-Generator",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
-  "author": "Ted Geving <tgeving@gmail.com>",
-  "private": true,
+  "name": "lorem-gemidao-do-zap-ipsum",
+  "description": "Lorem {do gemidão do zap} ipsum",
+  "version": "0.0.1",
+  "author": "Fernando Moreira <nandomoreira.me@gmail.com>",
+  "lisence": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
