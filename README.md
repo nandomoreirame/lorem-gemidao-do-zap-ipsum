@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://nandomoreira.me/lorem-gemidao-do-zap-ipsum/
+https://nandomoreirame.github.io/lorem-gemidao-do-zap-ipsum/
 
 ## Install and Build Setup
 
