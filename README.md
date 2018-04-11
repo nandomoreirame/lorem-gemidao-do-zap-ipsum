@@ -2,9 +2,9 @@
 
 ![Lorem {gemidão do zap} ipsum](/lorem-genidao.png)
 
-## Demo
+## [Demo](https://lorem-gemidao-do-zap-ipsum.netlify.com/)
 
-https://nandomoreirame.github.io/lorem-gemidao-do-zap-ipsum/
+[lorem-gemidao-do-zap-ipsum.netlify.com](https://lorem-gemidao-do-zap-ipsum.netlify.com/)
 
 ## Install and Build Setup
 
