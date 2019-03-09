@@ -42,4 +42,18 @@ See [Releases](https://github.com/nandomoreirame/lorem-gemidao-do-zap-ipsum/rele
 
 ## License
 
+```
+WWWWWW||WWWWWW
+ W W W||W W W
+      ||
+    ( OO )__________
+     /  |           \
+    /o o|    MIT     \
+    \___/||_||__||_|| *
+         || ||  || ||
+        _||_|| _||_||
+       (__|__|(__|__|
+```
+
 Code is under [MIT License](/LICENSE) - © Fernando Moreira
+
