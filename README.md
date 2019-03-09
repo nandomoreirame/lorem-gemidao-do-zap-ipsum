@@ -32,7 +32,7 @@ Contributing
 
 ## History
 
-See [Releases](https://github.com/nandomoreirame/lorem-gemidao-do-zap-ipsum/releases) for detailed changelog.
+See [Releases](../../releases) for detailed changelog.
 
 ## Author
 
